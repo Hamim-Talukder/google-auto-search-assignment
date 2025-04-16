@@ -1,6 +1,7 @@
 📌 Project 1: Google Search Suggestion Analyzer
 Overview:
 An automation tool designed to fetch and analyze Google search suggestions for a given list of keywords. It identifies the longest and shortest auto-suggestions and updates the results in an Excel file.
+
 Technologies Used:
 1.	Java
 2.	Selenium WebDriver
@@ -18,6 +19,7 @@ Key Features:
 📌 Project 2: Excel Username & Password Permutation Generator
 Overview:
 A console-based utility to generate unique permutations of usernames and passwords, storing them in a structured Excel file for later use (e.g., testing login functionality).
+
 Technologies Used:
 1.	Java
 2.	Apache POI
@@ -34,6 +36,7 @@ Key Features:
 📌 Project 3: Automated Login Testing for Student Portal
 Overview:
 An automation script to test login functionality of a student web portal using multiple sets of credentials.
+
 Technologies Used:
 1.	Java
 2.	Selenium WebDriver
