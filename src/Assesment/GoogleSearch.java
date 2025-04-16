@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
 public class GoogleSearch {
     public static void main(String[] args) {
         try {
-            // Step 1: Setup WebDriver
+            // Step 1: Setup WebDriver aa
             System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
             WebDriver driver = new ChromeDriver();
             driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
