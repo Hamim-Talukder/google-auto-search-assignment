@@ -8,6 +8,7 @@ Technologies Used:
 3.	ChromeDriver
 4.	Apache POI
 5.	Microsoft Excel
+   
 Key Features:
 1.	Reads keywords from an Excel sheet based on the current day (e.g., “Monday”).
 2.	Automates Google search and waits for suggestion dropdown.
@@ -25,6 +26,7 @@ Technologies Used:
 2.	Apache POI
 3.	Scanner (Java I/O)
 4.	Microsoft Excel
+
 Key Features:
 1.	Accepts user input for base username/password and desired number of combinations.
 2.	Generates unique permutations using recursion.
@@ -41,6 +43,7 @@ Technologies Used:
 1.	Java
 2.	Selenium WebDriver
 3.	ChromeDriver
+
 Key Features:
 1.	Stores multiple username-password pairs in arrays.
 2.	Automates login attempts on a student portal.
